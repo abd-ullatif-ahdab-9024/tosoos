@@ -1,0 +1,24 @@
+body{
+ height: 100%;
+
+ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.gameContainer{
+text-align: center;
+}
+#gameBorder{
+    
+   border: solid 3px;
+   }
+   .score{
+  font-size: 70px;
+
+   }
+.resetBtn{
+   font-size: 22px;
+   width: 100px;
+   height: 50px;
+   border: solid 4px;
+   border-radius: 15px;
+cursor:pointer;
+}
